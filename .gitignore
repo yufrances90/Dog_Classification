@@ -5,3 +5,5 @@ lfw/*
 lab/.ipynb_checkpoints/*
 history/*/.ipynb_checkpoints/*
 history/*/*/*/.ipynb_checkpoints/*
+lab/v2/.ipynb_checkpoints/*
+lab/v3/.ipynb_checkpoints/*
